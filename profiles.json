@@ -1,0 +1,263 @@
+[
+    {
+        "name": "Divine Smith",
+        "title": "hairstylist",
+        "category": "service",
+        "price": 20000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "Passionate about healthy hair and personalized styling. Let's create a look that fits your lifestyle."
+    },
+    {
+        "name": "Tobi Adebayo",
+        "title": "fashion photographer",
+        "category": "visual",
+        "price": 250000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "Editorial and campaign photography with a minimal, high-contrast style rooted in contemporary African fashion."
+    },
+    {
+        "name": "Chidinma Okafor",
+        "title": "graphic designer",
+        "category": "visual",
+        "price": 80000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "Brand identity and packaging design for startups, blending bold color with clean minimalist layouts."
+    },
+    {
+        "name": "Emeka Nwosu",
+        "title": "videographer",
+        "category": "visual",
+        "price": 300000,
+        "availability": false,
+        "location": "Abuja",
+        "description": "Documentary-style wedding and event videography with a cinematic, storytelling approach."
+    },
+    {
+        "name": "Amara Bello",
+        "title": "master of ceremonies",
+        "category": "service",
+        "price": 150000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "High-energy MC for weddings and corporate events, fluent in English, Yoruba, and Pidgin."
+    },
+    {
+        "name": "Femi Alabi",
+        "title": "portrait photographer",
+        "category": "visual",
+        "price": 100000,
+        "availability": true,
+        "location": "Ibadan",
+        "description": "Studio and outdoor portraits with a warm, natural light aesthetic, specializing in family and personal branding shoots."
+    },
+    {
+        "name": "Ngozi Eze",
+        "title": "makeup artist",
+        "category": "service",
+        "price": 45000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "Bridal and editorial makeup with a soft-glam finish, using long-wear products suited for humid climates."
+    },
+    {
+        "name": "Kunle Ogunleye",
+        "title": "product photographer",
+        "category": "visual",
+        "price": 90000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "Clean, e-commerce-ready product photography for fashion and beauty brands."
+    },
+    {
+        "name": "Zainab Hassan",
+        "title": "painter",
+        "category": "visual",
+        "price": 60000,
+        "availability": true,
+        "location": "Kano",
+        "description": "Contemporary acrylic and mixed-media paintings inspired by Northern Nigerian culture and patterns."
+    },
+    {
+        "name": "Ifeanyi Chukwu",
+        "title": "wedding photographer",
+        "category": "visual",
+        "price": 400000,
+        "availability": false,
+        "location": "Port Harcourt",
+        "description": "Romantic, candid wedding photography capturing genuine moments over posed shots."
+    },
+    {
+        "name": "Bisi Adeyemi",
+        "title": "hairstylist",
+        "category": "service",
+        "price": 15000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "Natural hair specialist offering braiding, locs maintenance, and protective styling."
+    },
+    {
+        "name": "Tunde Bakare",
+        "title": "logo and brand designer",
+        "category": "visual",
+        "price": 120000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "Distinctive logo design and brand systems for tech startups and small businesses."
+    },
+    {
+        "name": "Aisha Mohammed",
+        "title": "event decorator",
+        "category": "service",
+        "price": 200000,
+        "availability": true,
+        "location": "Abuja",
+        "description": "Elegant event styling and decor for weddings, birthdays, and corporate launches."
+    },
+    {
+        "name": "Chukwuemeka Obi",
+        "title": "music video director",
+        "category": "visual",
+        "price": 500000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "High-concept music videos blending Afrobeats visuals with cinematic lighting techniques."
+    },
+    {
+        "name": "Funmi Ajayi",
+        "title": "master of ceremonies",
+        "category": "service",
+        "price": 100000,
+        "availability": false,
+        "location": "Ibadan",
+        "description": "Warm, charismatic host for traditional and white weddings, skilled at crowd engagement."
+    },
+    {
+        "name": "Segun Balogun",
+        "title": "illustrator",
+        "category": "visual",
+        "price": 70000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "Digital illustration and character design for books, apps, and social media campaigns."
+    },
+    {
+        "name": "Halima Yusuf",
+        "title": "makeup artist",
+        "category": "service",
+        "price": 35000,
+        "availability": true,
+        "location": "Kano",
+        "description": "Natural and glam makeup looks for everyday clients and special occasions."
+    },
+    {
+        "name": "Chinedu Okonkwo",
+        "title": "commercial photographer",
+        "category": "visual",
+        "price": 350000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "Advertising and commercial photography for brands, with a sleek, high-production look."
+    },
+    {
+        "name": "Yetunde Fashola",
+        "title": "painter",
+        "category": "visual",
+        "price": 45000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "Watercolor and oil portraiture, taking commissions for personal and family portraits."
+    },
+    {
+        "name": "Uche Iwu",
+        "title": "hairstylist",
+        "category": "service",
+        "price": 18000,
+        "availability": true,
+        "location": "Enugu",
+        "description": "Trendy cuts, coloring, and styling for men and women, specializing in modern fades."
+    },
+    {
+        "name": "Damilola Oyelaran",
+        "title": "UI/UX designer",
+        "category": "visual",
+        "price": 150000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "Product design for mobile and web apps, focused on clean, intuitive user experiences."
+    },
+    {
+        "name": "Grace Etim",
+        "title": "master of ceremonies",
+        "category": "service",
+        "price": 130000,
+        "availability": true,
+        "location": "Port Harcourt",
+        "description": "Bilingual event host experienced with corporate galas and product launches."
+    },
+    {
+        "name": "Abdulrahman Sani",
+        "title": "drone videographer",
+        "category": "visual",
+        "price": 220000,
+        "availability": true,
+        "location": "Abuja",
+        "description": "Aerial cinematography for real estate, events, and tourism content."
+    },
+    {
+        "name": "Omolara Adeleke",
+        "title": "makeup artist",
+        "category": "service",
+        "price": 50000,
+        "availability": false,
+        "location": "Lagos",
+        "description": "High-fashion editorial makeup for photoshoots, runway, and magazine features."
+    },
+    {
+        "name": "Victor Umeh",
+        "title": "graphic designer",
+        "category": "visual",
+        "price": 65000,
+        "availability": true,
+        "location": "Onitsha",
+        "description": "Social media graphics and flyer design for small businesses and event promoters."
+    },
+    {
+        "name": "Blessing Nnamdi",
+        "title": "hairstylist",
+        "category": "service",
+        "price": 25000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "Luxury silk press and weave installation specialist, known for sleek finishes."
+    },
+    {
+        "name": "Rasheed Lawal",
+        "title": "portrait painter",
+        "category": "visual",
+        "price": 80000,
+        "availability": true,
+        "location": "Lagos",
+        "description": "Hyperrealistic pencil and charcoal portraits, taking custom commissions from photos."
+    },
+    {
+        "name": "Precious Uduak",
+        "title": "event MC",
+        "category": "service",
+        "price": 90000,
+        "availability": true,
+        "location": "Uyo",
+        "description": "Friendly, professional host for birthdays, church events, and small corporate gatherings."
+    },
+    {
+        "name": "Ibrahim Musa",
+        "title": "fashion videographer",
+        "category": "visual",
+        "price": 280000,
+        "availability": true,
+        "location": "Kaduna",
+        "description": "Fashion film and lookbook videography with a bold, editorial visual style."
+    }
+]
